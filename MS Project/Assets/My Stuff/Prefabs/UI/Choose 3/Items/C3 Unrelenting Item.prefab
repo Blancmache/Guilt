@@ -63,8 +63,8 @@ PrefabInstance:
     - target: {fileID: 2553932914953712643, guid: 464bad16de60df2498bda5a763d4a54d, type: 3}
       propertyPath: m_text
       value: Dealing damage with your weapons now grants a charge of unrelenting
-        for 1s (+0.1s / stack) and refreshes the duration. Each charge increases
-        movement speed by 1, weapon damage by 10.
+        for 1s and refreshes the duration. Each charge increases movement speed by
+        1, weapon damage by 10.
       objectReference: {fileID: 0}
     - target: {fileID: 2553932914953712643, guid: 464bad16de60df2498bda5a763d4a54d, type: 3}
       propertyPath: m_fontSize
@@ -104,7 +104,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7367340412521903956, guid: 464bad16de60df2498bda5a763d4a54d, type: 3}
       propertyPath: m_Name
-      value: Unrelenting Button Variant
+      value: C3 Unrelenting Item
       objectReference: {fileID: 0}
     - target: {fileID: 8151608807673582662, guid: 464bad16de60df2498bda5a763d4a54d, type: 3}
       propertyPath: m_Pivot.x

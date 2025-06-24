@@ -62,8 +62,8 @@ PrefabInstance:
       objectReference: {fileID: 21300000, guid: 4dbdc7c4c99f40d489b5c9b27ae0cf15, type: 3}
     - target: {fileID: 2553932914953712643, guid: 464bad16de60df2498bda5a763d4a54d, type: 3}
       propertyPath: m_text
-      value: Take 100% extra damage, but each 0.5s of not taking damage reduces damage
-        taken by 5% (+5% / stack) to a maximum of a 195% damage reduction
+      value: Take +100% extra damage, but each 0.5s of not taking damage reduces
+        damage taken by -5% to a maximum of a -195% damage reduction
       objectReference: {fileID: 0}
     - target: {fileID: 2553932914953712643, guid: 464bad16de60df2498bda5a763d4a54d, type: 3}
       propertyPath: m_fontSize
@@ -103,7 +103,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7367340412521903956, guid: 464bad16de60df2498bda5a763d4a54d, type: 3}
       propertyPath: m_Name
-      value: Barrier Item Button Variant
+      value: C3 Barrier Item
       objectReference: {fileID: 0}
     - target: {fileID: 8151608807673582662, guid: 464bad16de60df2498bda5a763d4a54d, type: 3}
       propertyPath: m_Pivot.x
